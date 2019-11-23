@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '欢迎使用教学管理系统';
+        return view();
     }
 }
