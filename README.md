@@ -2,3 +2,10 @@
 基于thinkphp,laravel,codeIginter,yii2框架实现的简易教学管理系统
 
 demo地址：http://jxglxt.huanghui.xyz
+
+## 安装项目所需依赖
+
+~~~
+composer install
+~~~
+
